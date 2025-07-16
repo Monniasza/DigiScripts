@@ -1,5 +1,5 @@
 --A Lua tube script that checks if items are processable by the biofuel refinery and sends them to an appropriate channel.
--- Requires a delay line
+-- Requires a delay line and a CraftDB
 
 
 --Side to send compatible items to
